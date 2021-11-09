@@ -5,8 +5,8 @@
       "label": "Magalu",
       "logo": "https://logodownload.org/wp-content/uploads/2014/06/magalu-logo-1.png",
       "localization": {
-        "lat": "-23.674280",
-        "lng": "-46.678219"
+        "lat": -23.67428,
+        "lng": -46.678219
       },
       "address": {
         "street": "Av. Interlagos, 2255",
@@ -20,8 +20,8 @@
       "label": "Casas Bahia",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Casas_Bahia_logo.svg/1280px-Casas_Bahia_logo.svg.png",
       "localization": {
-        "lat": "-23.678110",
-        "lng": "-46.697392"
+        "lat": -23.67811,
+        "lng": -46.697392
       },
       "address": {
         "street": "Av. das Nações Unidas, 22540",
@@ -35,8 +35,8 @@
       "label": "Extra Hiper Mercados",
       "logo": "https://logodownload.org/wp-content/uploads/2014/12/extra-logo-mercado.jpg",
       "localization": {
-        "lat": "-23.663850",
-        "lng": "-46.679640"
+        "lat": -23.66385,
+        "lng": -46.67964
       },
       "address": {
         "street": "Av. Sargento Geraldo Sant'Ana, 1491",
